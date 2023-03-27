@@ -50,20 +50,18 @@ export const SearchInput = styled.input`
 
 export const BoxResult = styled.ul`
     width: 80%;
-    background-color: #cce9f4;
     margin: 1rem 2rem 2rem 2rem;
     border-radius: 0.5rem;
     overflow-x: auto;
-
     list-style: none;
 `;
 
 export const StyledItemResult = styled(ItemResult)`
     width: 100%;
-    height: 5rem;
-    background-color: white;
     padding: 1rem;
-
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
     &&:hover {
         border-bottom: 1px solid gray;
         background-color: #cce9f4;
