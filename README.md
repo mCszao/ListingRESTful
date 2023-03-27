@@ -1,6 +1,5 @@
 # ListingRestFul
 
-![Imagem do Projeto](https://exemplo.com/imagem.png)
 
 ListinRestFul é um projeto de exemplo que mostra como consumir uma api do modelo RESTful, utilizando o JSONPLACEHOLDER como Exemplo
 
