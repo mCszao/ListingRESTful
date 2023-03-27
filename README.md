@@ -16,7 +16,7 @@ Para começar a usar este projeto, você precisa ter o [Node.js](https://nodejs.
 
 ## Endpoints
 
-Aqui estão os endpoints disponíveis nesta API:
+Aqui estão os endpoints utilizados nesta API:
 
 - GET `https://jsonplaceholder.typicode.com/posts` - Retorna uma lista de todos os posts.
 - GET `https://jsonplaceholder.typicode.com/users` - Retorna uma lista de todos os usuários.
