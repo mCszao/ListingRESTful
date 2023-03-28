@@ -13,7 +13,7 @@ import {
     StyledLocalizationInfos,
     StyledContactInfos,
     StyledWorkInfos,
-} from './styles/Profile.styled';
+} from './styles/profile.styled';
 
 export const Profile = () => {
     const params = useParams();

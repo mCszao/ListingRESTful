@@ -1,4 +1,4 @@
-import { WorkInfosProps } from './styles/WorkInfosProps';
+import { WorkInfosProps } from './styles/workInfosProps';
 import { MdOutlineWork } from 'react-icons/md';
 export const WorkInfos = ({ name, catchPhrase, className }: WorkInfosProps) => {
     return (

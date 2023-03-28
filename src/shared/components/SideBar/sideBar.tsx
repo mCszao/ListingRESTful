@@ -4,7 +4,7 @@ import {
     StyledItemResult,
     SearchInput,
     StyledSideBar,
-} from './styles/SideBar.styled';
+} from './styles/sideBar.styled';
 import { FcSearch } from 'react-icons/fc';
 import { ChangeEvent, useEffect, useState } from 'react';
 import { IUser } from '../../interface/IUser';

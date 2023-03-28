@@ -9,7 +9,7 @@ import { BsPeopleFill } from 'react-icons/bs';
 import {
     BoxResult,
     StyledItemResult,
-} from '../../shared/components/SideBar/styles/SideBar.styled';
+} from '../../shared/components/SideBar/styles/sideBar.styled';
 import { ImgLoading } from '../../shared/components/ImgLoading/imgLoading';
 import ReactLogo from '../../assets/images/react.svg';
 

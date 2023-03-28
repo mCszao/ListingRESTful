@@ -1,4 +1,4 @@
-import { ContactInfosProps } from './styles/ContactInfosProps';
+import { ContactInfosProps } from './types/contactInfosProps';
 import { BsPhoneVibrateFill } from 'react-icons/bs';
 import { MdOutlineMarkEmailUnread } from 'react-icons/md';
 export const ContactInfos = ({
