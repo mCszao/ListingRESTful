@@ -38,9 +38,7 @@ export const useApi = () => {
         },
         getCommentsByPostId: async (id: string): Promise<IComments[]> => {
             setLoading(true);
-            const response = await axios.get(
-                `https://jsonplaceholder.typicode.com/posts/${id}/comments`
-            );
+            const response = await instance.get(`/posts/${id}/comments`);
             setLoading(false);
             return response.data;
         },
